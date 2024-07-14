@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CodsoftTodoApp</string>
+    <string name="todoList">To-Do List</string>
+    <string name="date">date</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="todo">todo</string>
+    <string name="create_todo_enter">Enter todo here</string>
+    <string name="setReminder">remainder</string>
+    <string name="done">Done</string>
+</resources>
